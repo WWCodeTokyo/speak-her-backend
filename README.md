@@ -1,6 +1,8 @@
 # SpeakHer Backend
 
-This project is the backend for https://speakher.jp. This project contains is a Ruby on Rails API app, serving REST endpoints to fetch and manipulate the data.
+This project is a prospective backend for https://speakher.jp. It is not currently used, but we may resume it in the future.
+
+ This project contains is a Ruby on Rails API app, serving REST endpoints to fetch and manipulate the data.
 
 Specs:
 - Web server: Puma (default for Rails apps)
